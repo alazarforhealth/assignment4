@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banner UML", "Banner UML\Banner UML.csproj", "{AB7EF85C-4DFD-4A69-A180-30618C389635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB7EF85C-4DFD-4A69-A180-30618C389635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7EF85C-4DFD-4A69-A180-30618C389635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7EF85C-4DFD-4A69-A180-30618C389635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7EF85C-4DFD-4A69-A180-30618C389635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19E49A23-5194-4B8C-BB76-FB11D0EB07F2}
+	EndGlobalSection
+EndGlobal
